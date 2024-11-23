@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Base.Theme.ArticleSearch3" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Set the colorPrimary for the AppBar -->
+        <item name="colorPrimary">@color/colorPrimaryVariant</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+    </style>
+
+    <!-- Use the Base theme for your app -->
+    <style name="Theme.ArticleSearch3" parent="Base.Theme.ArticleSearch3">
+        <!-- Additional customization if needed -->
+    </style>
+</resources>
